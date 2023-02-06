@@ -1,0 +1,21 @@
+{
+  "name": "leftbrain-theme",
+  "displayName": "leftbrain-theme",
+  "description": "Default Visual Studio Code Dark theme with soft colored syntax.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Leftbrain theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Leftbrain theme-color-theme.json"
+      }
+    ]
+  }
+}
