@@ -1,2 +1,6 @@
 # Set default behavior to automatically normalize line endings.
+<<<<<<< HEAD
 * text=auto
+=======
+* text=auto
+>>>>>>> 5041017 (Some changes on theme color scheme and add logo)

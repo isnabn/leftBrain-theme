@@ -1,4 +1,8 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+<<<<<<< HEAD
 vsc-extension-quickstart.md
+=======
+vsc-extension-quickstart.md
+>>>>>>> 5041017 (Some changes on theme color scheme and add logo)

@@ -1,2 +1,6 @@
 node_modules
+<<<<<<< HEAD
 *.vsix
+=======
+*.vsix
+>>>>>>> 5041017 (Some changes on theme color scheme and add logo)
