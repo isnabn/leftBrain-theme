@@ -10,10 +10,8 @@ Default Visual Studio Code Dark Theme with soft colored syntax.
 {
     "editor.fontSize": 18,
     "editor.folding": false,
-    "editor.lineNumbers": "off",
     "editor.matchBrackets": false,
     "editor.minimap.enabled": false,
-
 }
 ```
 

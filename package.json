@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "isnabn",
   "displayName": "leftBrain Theme",
   "description": "Default Visual Studio Code Dark Theme with soft colored syntax. ",
   "version": "0.0.2",
+=======
+  "name": "leftbrain-theme",
+  "displayName": "leftBrain Theme",
+  "description": "Default Visual Studio Code Dark Theme with soft colored syntax.",
+  "version": "0.2.0",
+>>>>>>> bc9cac3 (change identify id)
   "publisher": "isnabn",
   "engines": {
     "vscode": "^1.75.0"
@@ -10,7 +17,11 @@
   "icon": "logo.png",
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/isnabn/leftbrain-theme"
+=======
+    "url": "https://github.com/isnabn/leftbrain-theme/"
+>>>>>>> bc9cac3 (change identify id)
   },
   "categories": [
     "Themes"
